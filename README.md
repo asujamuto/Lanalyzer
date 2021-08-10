@@ -1,0 +1,1 @@
+Amateur project to analyze Lana Del Rey songs
